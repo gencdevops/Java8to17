@@ -9,4 +9,5 @@ public class StringConcatenation {
         System.out.println("[" + System.currentTimeMillis() + "]"
                 + " : " + message + " (" + count+ ")");
     }
+    //
 }
