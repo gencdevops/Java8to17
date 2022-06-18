@@ -1,0 +1,14 @@
+jshell
+
+2+3
+
+Consumer<String> s = (String s) -> System.out.println(s)
+s.accept("Hello jshell")
+
+
+Stream<String> stringStream = Stream.of("a", "b", "c");
+stringStream.map(s -> s.toUpperCase()).collect(Collectors.toList())
+
+/list
+/vars
+/exit
