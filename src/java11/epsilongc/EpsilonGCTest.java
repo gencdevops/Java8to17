@@ -1,4 +1,4 @@
-package java11;
+package java11.epsilongc;
 
 public class EpsilonGCTest {
 
