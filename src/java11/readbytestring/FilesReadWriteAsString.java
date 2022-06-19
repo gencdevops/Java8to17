@@ -1,4 +1,4 @@
-package java11;
+package java11.readbytestring;
 
 import java.io.IOException;
 import java.nio.file.Files;
