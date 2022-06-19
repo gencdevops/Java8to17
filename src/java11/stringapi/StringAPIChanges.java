@@ -1,4 +1,4 @@
-package java11;
+package java11.stringapi;
 
 //Changes in String API in JDK 11.
 public class StringAPIChanges {
