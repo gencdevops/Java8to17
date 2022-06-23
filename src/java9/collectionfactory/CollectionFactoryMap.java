@@ -8,6 +8,9 @@ import static java.util.Map.entry;
 
 public class CollectionFactoryMap {
     public static void main(String[] args) {
+        unmodifiableMapUsingPut();
+        unmodifiableMapUsingOf();
+        unmodifiableMapWithTenElements();
 
     }
 

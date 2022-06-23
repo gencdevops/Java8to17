@@ -13,7 +13,6 @@ import java.util.List;
 public class CollectionFactoryList {
     public static void main(String[] args) {
         //unmodifiableListWithAdd();
-
         unmodifiableListArraysAsListExample();
 
         //unmodifiableListOf();
@@ -29,7 +28,7 @@ public class CollectionFactoryList {
         List<String> writers1 = Collections.unmodifiableList(list);
 
         //UnsupportedOperationException
-        //writers1.add("ihsan oktay anar");
+       // writers1.add("ihsan oktay anar");
 
 
         System.out.println(writers1);
