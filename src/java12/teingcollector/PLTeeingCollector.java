@@ -1,4 +1,4 @@
-package java12;
+package java12.teingcollector;
 
 import java.util.ArrayList;
 import java.util.List;
